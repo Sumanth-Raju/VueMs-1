@@ -1,0 +1,13 @@
+dotnet new --help
+dotnet -l
+
+
+dotnet new webapi -n Api
+
+dotnet build 
+dotnet run
+
+
+
+npm i -g @vue/cli
+vue create web 
